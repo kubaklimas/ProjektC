@@ -5,3 +5,10 @@ Plany na przyszły tydzień
 * wybrać w czym ma być stworzona aplikacja 
 * stworzyć okienko, połączyć program z bazą danych
 * znaleźć serwer dla bazy danych
+
+# Raport 8.11
+Zapoznawanie się z programem QtCreator. Tworzenie okienka , próby łączenia projektu z bazą danych. 
+Plany na przyszły tydzień:
+* połączenie projektu z bazą
+* testowanie formularzy
+* czytanie dokumentacji QtCreator w celu lepszego poznania programu i jego możliwości.
