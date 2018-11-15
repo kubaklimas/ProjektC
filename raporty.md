@@ -12,3 +12,9 @@ Plany na przyszły tydzień:
 * połączenie projektu z bazą
 * testowanie formularzy
 * czytanie dokumentacji QtCreator w celu lepszego poznania programu i jego możliwości.
+
+# Raport 15.11
+Testowanie formularzy, próby podziału formularzy na mniejsze częsci. 
+Plany na przyszły tydzień 
+* próby zrobienia panelu logowania 
+* poszukiwania bibliotek do rysowania wykresów 
