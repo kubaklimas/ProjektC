@@ -18,3 +18,10 @@ Testowanie formularzy, próby podziału formularzy na mniejsze częsci.
 Plany na przyszły tydzień 
 * próby zrobienia panelu logowania 
 * poszukiwania bibliotek do rysowania wykresów 
+
+# Raport 21.11 
+Zapoznawanie sie z dokumentacja QtCreator i użycia w niej SQL. 
+Czytanie informacji nt. panelu logowania 
+Plany na przyszły tydzień 
+* dalsze próby formularzy
+* czytanie dokumentacji QtCreator, oraz zapoznawanie się z tutorialami nt. tego programu
