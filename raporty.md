@@ -25,3 +25,8 @@ Czytanie informacji nt. panelu logowania
 Plany na przyszły tydzień 
 * dalsze próby formularzy
 * czytanie dokumentacji QtCreator, oraz zapoznawanie się z tutorialami nt. tego programu
+
+# Raport 28.11
+Próby przesyłania formularzy, wydobywania z nich informacji próby zapisu do tablic. 
+Plany na przyszły tydzień 
+* próby wyłuskania zawartości z danego formularza i jego dalsze przetwarzanie(najniższa/ największa cena)
