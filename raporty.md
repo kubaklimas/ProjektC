@@ -30,3 +30,9 @@ Plany na przyszły tydzień
 Próby przesyłania formularzy, wydobywania z nich informacji próby zapisu do tablic. 
 Plany na przyszły tydzień 
 * próby wyłuskania zawartości z danego formularza i jego dalsze przetwarzanie(najniższa/ największa cena)
+
+# Raport 13.11
+Tworzenie bazy danych login.db zawierajacych loginy oraz hasła uzytkowników oraz uzycie ich w programie 
+Plany na przyszły tydzień
+* Stworzenie bazy z aktualnymi cenami 
+* uruchomienie drugiego okna po zalogowaniu 
