@@ -26,16 +26,17 @@ Plany na przyszły tydzień
 * dalsze próby formularzy
 * czytanie dokumentacji QtCreator, oraz zapoznawanie się z tutorialami nt. tego programu
 
-# Raport 28.11
-Próby przesyłania formularzy, wydobywania z nich informacji próby zapisu do tablic. 
-Plany na przyszły tydzień 
-* próby wyłuskania zawartości z danego formularza i jego dalsze przetwarzanie(najniższa/ największa cena)
-
 # Raport 13.11
 Tworzenie bazy danych login.db zawierajacych loginy oraz hasła uzytkowników oraz uzycie ich w programie 
 Plany na przyszły tydzień
 * Stworzenie bazy z aktualnymi cenami 
 * uruchomienie drugiego okna po zalogowaniu 
+
+# Raport 28.11
+Próby przesyłania formularzy, wydobywania z nich informacji próby zapisu do tablic. 
+Plany na przyszły tydzień 
+* próby wyłuskania zawartości z danego formularza i jego dalsze przetwarzanie(najniższa/ największa cena)
+
 # Raport 03.01
 Pokazywanie się w labelach wartosci zaznaczonych w tabeli.
 Plany na przyszły tydzień:
