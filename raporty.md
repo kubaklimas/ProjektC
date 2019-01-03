@@ -36,3 +36,8 @@ Tworzenie bazy danych login.db zawierajacych loginy oraz hasła uzytkowników or
 Plany na przyszły tydzień
 * Stworzenie bazy z aktualnymi cenami 
 * uruchomienie drugiego okna po zalogowaniu 
+# Raport 03.01
+Pokazywanie się w labelach wartosci zaznaczonych w tabeli.
+Plany na przyszły tydzień:
+* Okno rejestracji 
+* Zapisywanie zmian
