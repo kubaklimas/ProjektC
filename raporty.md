@@ -42,3 +42,9 @@ Pokazywanie się w labelach wartosci zaznaczonych w tabeli.
 Plany na przyszły tydzień:
 * Okno rejestracji 
 * Zapisywanie zmian
+
+# Raport 10.01
+Usuwanie danych za pomoca przycisku, zapisywanie zmian. 
+Plany na przyszły tydzień:
+* Zatwierdzanie rejestracji oraz dopracowanie jej z poziomu okna ( a nie bezpośrednio przez konsolę).
+* Poszukiwanie informacji na temat wyróżnienia poszczególnych wartości w zależności od kolumny
