@@ -10,7 +10,7 @@ MainWindow::MainWindow(QWidget *parent) :
     if(!connectOpen())
         ui->label->setText("Disconnected");
     else
-        ui->label->setText("Conected to database");
+        ui->label->setText("Connected to database");
 
 }
 
@@ -54,7 +54,7 @@ void MainWindow::on_pushButton_clicked()
             Cennik.exec();
         }
         if (a>1)
-            ui->Sprawdzanko->setText("XDD?");
+            ui->Sprawdzanko->setText("Zdublowana nazwa użytkownika");
         if (a<1)
             ui->Sprawdzanko->setText("Błędny dane");
     }
