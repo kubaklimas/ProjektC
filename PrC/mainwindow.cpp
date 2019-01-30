@@ -60,3 +60,10 @@ void MainWindow::on_pushButton_clicked()
     }
 
 }
+
+void MainWindow::on_regbutton_clicked()
+{
+    Rejestracja reje;
+    reje.setModal(true);
+    reje.exec();
+}

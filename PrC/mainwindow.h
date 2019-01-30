@@ -6,6 +6,8 @@
 #include <QtDebug>
 #include <QFileInfo>
 #include "cennik.h"
+#include "rejestracja.h"
+
 namespace Ui {
 class MainWindow;
 }
@@ -46,6 +48,8 @@ public:
 
 private slots:
     void on_pushButton_clicked();
+
+    void on_regbutton_clicked();
 
 private:
     Ui::MainWindow *ui;

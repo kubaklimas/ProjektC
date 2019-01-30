@@ -26,12 +26,15 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
         main.cpp \
         mainwindow.cpp \
-    cennik.cpp
+    cennik.cpp \
+    rejestracja.cpp
 
 HEADERS += \
         mainwindow.h \
-    cennik.h
+    cennik.h \
+    rejestracja.h
 
 FORMS += \
         mainwindow.ui \
-    cennik.ui
+    cennik.ui \
+    rejestracja.ui
